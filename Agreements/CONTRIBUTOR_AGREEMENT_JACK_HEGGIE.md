@@ -1,4 +1,5 @@
-# Ubivera Contributor Agreement (Passion Project Phase)
+# Ubivera Contributor Agreement (v1.0)[^1]
+[^1]: (Passion Project Phase)
 
 ## 1. Introduction and Purpose
 
@@ -84,10 +85,10 @@ This method of acceptance is intended to create a verifiable record of Your agre
 
 **Contributor Acknowledgement and Acceptance:**
 
-I, `Full Name`, have read, understood, and agree to all the terms and conditions of this Ubivera Contributor Agreement (Passion Project Phase).
+I, `Full Name`, have read, understood, and agree to all the terms and conditions of this Ubivera Contributor Agreement (v1.0).
 
 **Date of Acceptance:** `YYYY-MM-DD` (To be filled in at the time of commit)
 
-**Accepted by Git Commit:** (Contributor to make a commit with this file, including their name above and the date, with a commit message such as: "I, Full Name, agree to the Ubivera Contributor Agreement (Passion Project Phase) as of YYYY-MM-DD.")
+**Accepted by Git Commit:** (Contributor to make a commit with this file, including their name above and the date, with a commit message such as: "I, Full Name, agree to the Ubivera Contributor Agreement (v1.0) as of YYYY-MM-DD.")
 
 ---
